@@ -15,7 +15,7 @@ As of 24.02.2024:
 
 ## Contributing
 
-Pointless.
+This is for personal learning purposes.
 
 ## Licence
 
