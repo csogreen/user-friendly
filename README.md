@@ -1,7 +1,6 @@
 # Good files
 
-This is a personal repo of some simple code in C and Python written in order to learn basics.
-The ultimate goal is to build a matrix calculator that can be operated from terminal with a makefile and what not.
+This is a personal repo of some simple code in C and Python that I wrote to learn the very basics.
 
 ## Installation
 
